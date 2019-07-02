@@ -2,15 +2,15 @@
 
 > Simple, Easy to setup, Easy to use, SEO optimized, Modern CMS for ecommerce created with Node.js and Nuxt.js
 
-## Build Setup
+## To run server
 
 ```bash
 # install dependencies
-$ npm install
+$ cd server && npm install
 
 # start mongo shell
 $ mongod --dbpath ./db
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+# run a server with full debugging mode
+$ npm run nodemon
 ```
