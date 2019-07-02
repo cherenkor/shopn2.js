@@ -1,0 +1,4 @@
+{
+    "name": "ShopN2.js - Development",
+    "db": "mongodb://localhost/shopN2"
+}
